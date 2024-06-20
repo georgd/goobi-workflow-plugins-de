@@ -15,7 +15,7 @@ Mithilfe dieses Plugins für Goobi können die in Goobi vorliegenden Metadaten O
 | Details |  |
 | :--- | :--- |
 | Identifier | intranda_step_bagcreation, intranda_step_bagsubmission |
-| Source code | [https://gitea.intranda.com/goobi-workflow/goobi-plugin-step-bagcreation](https://gitea.intranda.com/goobi-workflow/goobi-plugin-step-bagcreation) |
+| Source code | [https://gitea.intranda.com/goobi-workflow/goobi-plugin-step-bagcreation](https://github.com/intranda/goobi-plugin-step-bagcreation) |
 | Lizenz | GPL 2.0 oder neuer |
 | Dokumentationsdatum | 02.03.2024 |
 
